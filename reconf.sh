@@ -27,11 +27,3 @@ fi
 #			--sysconfdir=${prefix}/conf \
 #			--localstatedir=${prefix}/var
 
-# 
-#
-#
-#
-#
-#
-#
-#
